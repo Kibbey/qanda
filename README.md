@@ -6,6 +6,7 @@ Three layer application with a Domain Driven flavor Qanda.API (folder is `qanda`
 Data layer is just in memory for easy of running but could substitute a web service, sql, or noSql implementation.
 
 If doing a noSql implemtation would suggest a document per QA session (leaving out timestamps). May change over id's to uuid from int:
+```json
 {
   id: uuid,
   start: dateTime,
@@ -20,7 +21,7 @@ If doing a noSql implemtation would suggest a document per QA session (leaving o
       answeredBy: string
   ]
 }
-
+```
 Sql implementation may look like:
 
 QA Table
