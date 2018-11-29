@@ -99,13 +99,13 @@ namespace Qanda.Domain.Tests
         [TestMethod]
         public void QAwithQuestions()
         {
-            qaRepository = new QARepositoryInMemory();
+            qaRepository = new QARepositoryInMemory();  
             var id = qaRepository.CreateQA(start, end, host).Result;
             var questionId = qaRepository.CreateQuestion(id, new Models.Question { Text = question1, AskedBy = requestor1 }).Result;
             var questionId2 = qaRepository.CreateQuestion(id, new Models.Question { Text = question1, AskedBy = requestor2 }).Result;
             var qaService = new QAService(qaRepository);
             qaService.AnswerQuestion(questionId, answer1, imageUrl).Wait();
-            var qa = qaService.GetQA(questionId).Result;
+            var qa = qaService.GetQA(id).Result;
             Assert.IsNotNull(qa.Questions);
             Assert.AreEqual(qa.Questions.Count(), 2);
             var questions1 = qa.Questions.Single(x => x.Id == questionId);
