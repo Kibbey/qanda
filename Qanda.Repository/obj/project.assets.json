@@ -680,37 +680,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kibbe\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/kibbey/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kibbe\\repo\\qanda\\Qanda.Repository\\Qanda.Repository.csproj",
+      "projectUniqueName": "/Users/kibbey/repo/qanda/Qanda.Repository/Qanda.Repository.csproj",
       "projectName": "Qanda.Repository",
-      "projectPath": "C:\\Users\\kibbe\\repo\\qanda\\Qanda.Repository\\Qanda.Repository.csproj",
-      "packagesPath": "C:\\Users\\kibbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kibbe\\repo\\qanda\\Qanda.Repository\\obj\\",
+      "projectPath": "/Users/kibbey/repo/qanda/Qanda.Repository/Qanda.Repository.csproj",
+      "packagesPath": "/Users/kibbey/.nuget/packages/",
+      "outputPath": "/Users/kibbey/repo/qanda/Qanda.Repository/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kibbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kibbey/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\kibbe\\repo\\qanda\\Qanda.Domain\\Qanda.Domain.csproj": {
-              "projectPath": "C:\\Users\\kibbe\\repo\\qanda\\Qanda.Domain\\Qanda.Domain.csproj"
+            "/Users/kibbey/repo/qanda/Qanda.Domain/Qanda.Domain.csproj": {
+              "projectPath": "/Users/kibbey/repo/qanda/Qanda.Domain/Qanda.Domain.csproj"
             }
           }
         }
@@ -727,7 +725,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },

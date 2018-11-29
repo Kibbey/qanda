@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D8C28B11-C190-4479-9FC1-C8D51459D878}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="qanda/Properties/launchSettings.json">
+    <Files>
+      <File FileName="Qanda.Domain.Tests/QAServiceTests.cs" Line="1" Column="1" />
+      <File FileName="qanda/appsettings.json" Line="1" Column="1" />
+      <File FileName="qanda/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="qanda/Program.cs" Line="1" Column="1" />
+      <File FileName="qanda/Startup.cs" Line="1" Column="1" />
+      <File FileName="qanda/Properties/launchSettings.json" Line="26" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Qanda.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
