@@ -1,0 +1,16 @@
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Api.deps.json
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Api.runtimeconfig.json
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Api.runtimeconfig.dev.json
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Api.dll
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Api.pdb
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Domain.dll
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Domain.pdb
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.csprojAssemblyReference.cache
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.csproj.CoreCompileInputs.cache
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.AssemblyInfoInputs.cache
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.AssemblyInfo.cs
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.csproj.CopyComplete
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.dll
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\Qanda.Api.pdb
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Repository.dll
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\Qanda.Repository.pdb

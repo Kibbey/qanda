@@ -1,0 +1,8 @@
+C:\Users\kibbe\repo\qanda\Qanda.Domain\bin\Debug\netcoreapp2.0\Qanda.Domain.deps.json
+C:\Users\kibbe\repo\qanda\Qanda.Domain\bin\Debug\netcoreapp2.0\Qanda.Domain.dll
+C:\Users\kibbe\repo\qanda\Qanda.Domain\bin\Debug\netcoreapp2.0\Qanda.Domain.pdb
+C:\Users\kibbe\repo\qanda\Qanda.Domain\obj\Debug\netcoreapp2.0\Qanda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kibbe\repo\qanda\Qanda.Domain\obj\Debug\netcoreapp2.0\Qanda.Domain.AssemblyInfoInputs.cache
+C:\Users\kibbe\repo\qanda\Qanda.Domain\obj\Debug\netcoreapp2.0\Qanda.Domain.AssemblyInfo.cs
+C:\Users\kibbe\repo\qanda\Qanda.Domain\obj\Debug\netcoreapp2.0\Qanda.Domain.dll
+C:\Users\kibbe\repo\qanda\Qanda.Domain\obj\Debug\netcoreapp2.0\Qanda.Domain.pdb

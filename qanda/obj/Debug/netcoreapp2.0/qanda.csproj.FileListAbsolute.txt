@@ -1,0 +1,11 @@
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\qanda.deps.json
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\qanda.runtimeconfig.json
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\qanda.runtimeconfig.dev.json
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\qanda.dll
+C:\Users\kibbe\repo\qanda\qanda\bin\Debug\netcoreapp2.0\qanda.pdb
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\qanda.csprojAssemblyReference.cache
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\qanda.csproj.CoreCompileInputs.cache
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\qanda.AssemblyInfoInputs.cache
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\qanda.AssemblyInfo.cs
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\qanda.dll
+C:\Users\kibbe\repo\qanda\qanda\obj\Debug\netcoreapp2.0\qanda.pdb

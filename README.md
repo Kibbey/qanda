@@ -1,2 +1,2 @@
 # qanda
-Testing out .net core
+Testing out .net core.
